@@ -10,8 +10,8 @@ Data
 We publish the dataset containing scores, ranks and deciles for all domains and for the overall BIMD2001 and BIMD2011. All on the level of statistical sector. 
 R codes
 There are number of R files containing codes that were applied for creating the domains and overall BIMD2001 and the BIMD2011. It enables to inspect our work in detail and/or make your own changes in the BIMD2001 and BIMD2011. These might include for instance re-calculation of the overall indices without using the health domain, if the research interest is in investigating the health inequalities, or it might allow reassigning the ranks into quantiles rather than deciles. We also provide R codes for calculating the summary measures at the level of municipality that includes average score, average rank and extent. 
-File 1 Belgian Index of Multiple Deprivation 2001 and its domains (scores, ranks, deciles)
-File 2 Belgian Index of Multiple Deprivation 2011 and its domains (scores, ranks, deciles)
+- File 1 Belgian Index of Multiple Deprivation 2001 and its domains (scores, ranks, deciles)
+- File 2 Belgian Index of Multiple Deprivation 2011 and its domains (scores, ranks, deciles)
 File 3 List of indicators for each domain in the BIMD2001 
 File 4 List of indicators for each domain in the BIMD2011
 File 5 Summary measures at the level of municipality for the BIMD2001
