@@ -1,3 +1,6 @@
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 # BELGIAN INDICES OF DEPRIVATION
 
 **The Belgian Index of Multiple Deprivation 2001 (BIMD2001)** and **The Belgian Index of Multiple Deprivation 2011 (BIMD2011)** are spatial- and time-specific measures of relative deprivation on the level of the smallest geographical unit in Belgium, the statistical sector, which were created as a part of the ELLIS project (https://www.brain-ellis.be/). The BIMD2001 and BIMD2011 rank statistical sectors from 1 (most deprived) to 18 295 or 18 764 (least deprived), and assign these ranks into deciles – from the most deprived 10 percent of statistical sectors nationally to the least deprived 10 percent. 
