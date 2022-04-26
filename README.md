@@ -1,5 +1,5 @@
 
-![BIMD2001_BIMD2011-Copy](https://user-images.githubusercontent.com/104343943/165054211-8e03d5ab-181d-41d0-80cc-88b5cc61e714.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/104343943/165293048-f7865e10-06a1-4cb5-8b99-bb15db3fc616.png)
 
 # BELGIAN INDICES OF DEPRIVATION
 
