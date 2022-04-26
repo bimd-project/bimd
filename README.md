@@ -18,8 +18,8 @@ There are number of R files containing codes that were applied for creating the 
 
 - File 1 Belgian Index of Multiple Deprivation 2001 and its domains (scores, ranks, deciles)
 - File 2 Belgian Index of Multiple Deprivation 2011 and its domains (scores, ranks, deciles)
-- File 3 List of indicators for each domain in the BIMD2001 
-- File 4 List of indicators for each domain in the BIMD2011
+- File 3 Shapefiles  
+- File 4 Diagram of indicators for the BIMD2001 and BIMD2011
 - File 5 Summary measures at the level of municipality for the BIMD2001
 - File 6 Summary measures at the level of municipality for the BIMD2011
 - File 7 R codes 
