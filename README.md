@@ -1,7 +1,7 @@
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/104343943/165293048-f7865e10-06a1-4cb5-8b99-bb15db3fc616.png)
 
-# The Belgian Index of Multiple Deprivation 2001 (BIMD2001)** and **The Belgian Index of Multiple Deprivation 2011 (BIMD2011)
+# The Belgian Index of Multiple Deprivation 2001 and 2011 (BIMD2001 and BIMD2011)
 
 **The Belgian deprivation indices** are spatial- and time-specific measures of relative deprivation on the level of the smallest geographical unit in Belgium, the statistical sector. The development of the deprivation indices was one of the goals of the ELLIS project (https://www.brain-ellis.be/) and was funded by the Belgian Federal Science Policy (BELSPO) through the BRAIN-be 2.0 programme. 
 
