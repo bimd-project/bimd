@@ -142,3 +142,37 @@ fin3 <- select(fin3, -c(2,3,6,7))
 write.xlsx(fin3, "", sheetName = "Sheet1", 
            colNames = TRUE, rowNames = F, append = FALSE)
 
+# ----------------------------  proportion of municipalities with the greatest number of statistical sectors in the first decile -------------------- #
+bimd2001 <-read.csv("https://raw.githubusercontent.com/bimd-project/Belgian-Indices-of-Multiple-Deprivation/main/FILE%201%20BIMD2001%20DOMAINS%20(SCORE%2C%20RANKS%2C%20DECILES)/bimd2001_domains_score_ranks_deciles.csv")
+names(bimd2001)
+bimd2001 <- dplyr::select(bimd2001, c(1,22))
+
+bimd2001$muni <- substr(bimd2001$CD_RES_SECTOR, 1,5)
+
+municipality <- read_delim("https://raw.githubusercontent.com/bimd-project/Belgian-Indices-of-Multiple-Deprivation/main/FILE%201%20BIMD2001%20DOMAINS%20(SCORE%2C%20RANKS%2C%20DECILES)/names_sectors_municipalities_2001.csv")
+
+municipality <- municipality[!duplicated(municipality$COMMUNE),]
+
+bimd2001_mun <- merge(bimd2001, municipality, by.x = "muni", by.y = "REFNIS2001", all = F)
+
+l <- length(bimd2001_mun$muni)
+bimd2001_mun$n <- rep(1,l)
+
+dic <- aggregate(n ~ BIMD2001_deciles  + COMMUNE, bimd2001_mun, sum)
+
+head(dic)
+
+wide <-  dic %>% 
+  spread(BIMD2001_deciles, n)
+wide[is.na(wide)] <- 0
+
+head(wide)
+wide$sum <- rowSums(wide[,2:11])
+
+wide$first_dec_prop <- wide$`1`/wide$sum
+wide$first_dec_prop <- round(wide$first_dec_prop,4)
+
+wide <- wide[order(wide$COMMUNE, decreasing = F),]
+
+final <- dplyr::select(wide, c(1,13))
+write.xlsx(final, "", sheetName = "Sheet1", colNames = TRUE, rowNames = F, append = FALSE)
