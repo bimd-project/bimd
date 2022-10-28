@@ -1,7 +1,13 @@
 
-![Screenshot (61)](https://user-images.githubusercontent.com/104343943/165293048-f7865e10-06a1-4cb5-8b99-bb15db3fc616.png)
+![BIMD2011](https://user-images.githubusercontent.com/104343943/198562800-803a0298-951f-48ca-bacc-aada780d2164.jpg)
+                            <div align="center">
+  From the most --------------------------------------------------------------------------- to the least deprived
+</div>
 
-# The Belgian Indices of Multiple Deprivation
+
+
+
+## The Belgian Indices of Multiple Deprivation
 
 **The Belgian indices of multiple deprivation** are spatial- and time-specific measures of relative deprivation on the level of the smallest geographical unit in Belgium, the statistical sector. The development of the deprivation indices was one of the main goals of the ELLIS project (https://www.brain-ellis.be/) and was funded by the Belgian Federal Science Policy (BELSPO) through the BRAIN-be 2.0 programme. 
 
