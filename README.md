@@ -17,14 +17,14 @@ The ranks can be directly compared – the closer the statistical sector’s ran
 
 ## What data files and supporting materials are available? 
 ###### Data 
-We publish datasets at the level of the statistical sector and municipality. The former contains scores, ranks and deciles for all deprivation domains and for the overall BIMD2001 and BIMD2011. The latter contains a higher-area level summary measure that is population-weighted, an average score. The average scores are provided for deprivation domains and the overall BIMDs. And as the name suggests, these measures are based on either the domain or the overall BIMDs' scores. The files with average scores also contain the rank of average score, and deprivation decile based on the average score. All files are available in the long and wide format. 
+We publish datasets at the level of the statistical sector and municipality. The former contains scores, ranks and deciles for all deprivation domains and for the overall BIMD2001 and BIMD2011. The latter contains a higher-area level summary measure that is population-weighted, an average score. The average scores are provided for deprivation domains and the overall BIMDs. And as the name suggests, these measures are based on either the domain' or the overall BIMDs' scores. These files also contain the rank of average score, and deprivation decile based on the average score. All files are available in the long and wide format. 
 
 
 ###### R codes
 There are number of R files containing codes that were applied to create the domains and overall BIMD2001 and the BIMD2011. Althouth we are not able to publish the raw data due to privacy issue, you are encouraged to inspect our codes and methodology. Using our codes and published dataset, you are, however, able to make your own changes in the BIMD2001 and BIMD2011. For instance, you can re-calculate the overall indices without using the health domain, if the research interest is in investigating the health inequalities. You can also reassign the ranks into quantiles rather than deciles. In addition, we provide R codes for calculating the summary measures at the level of municipality that includes average score, average rank and extent. 
 
-- File 1 Belgian Index of Multiple Deprivation 2001 and its domains (scores, ranks, deciles)
-- File 2 Belgian Index of Multiple Deprivation 2011 and its domains (scores, ranks, deciles)
+- File 1 BIMD2001 DOMAINS (SCORES, RANKS, DECILE)
+- File 2 BIMD2011 DOMAINS (SCORES, RANKS, DECILE)
 - File 3 Shapefiles  
 - File 4 Diagram of indicators for the BIMD2001 and BIMD2011
 - File 5 Summary measures at the level of municipality for the BIMD2001
