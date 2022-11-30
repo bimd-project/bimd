@@ -23,7 +23,7 @@ The ranks can be directly compared – the closer the statistical sector’s ran
 
 ## What data files and supporting materials are available? 
 ###### Data 
-We publish datasets at the level of the statistical sector and municipality. The former contains scores, ranks and deciles for all deprivation domains and for the overall BIMD2001 and BIMD2011. The latter contains a higher-area level summary measure that is population-weighted, an average score. The average scores are provided for deprivation domains and the overall BIMDs. And as the name suggests, these measures are based on either the domain' or the overall BIMDs' scores. These files also contain the rank of average score, and deprivation decile based on the average score. All files are available in the long and wide format. 
+We publish datasets at the level of the statistical sector and municipality. The former contains scores, ranks and deciles for all deprivation domains and for the overall BIMD2001 and BIMD2011. The latter contains a higher-area level summary measure that is population-weighted, an average score. The average scores are provided for deprivation domains and the overall BIMDs. And as the name suggests, these measures are based on either the domains' or the overall BIMDs' scores. These files also contain the rank of average score, and deprivation decile based on the average score. All files are available in the long and wide format. 
 
 
 ###### R codes
