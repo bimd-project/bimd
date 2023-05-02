@@ -33,6 +33,4 @@ There are number of R files containing codes that were applied to create the dom
 - File 2 BIMD2011 DOMAINS (SCORES, RANKS, DECILE)
 - File 3 Shapefiles  
 - File 4 Diagram of indicators for the BIMD2001 and BIMD2011
-- File 5 Summary measures at the level of municipality for the BIMD2001
-- File 6 Summary measures at the level of municipality for the BIMD2011
 - File 7 R codes 
