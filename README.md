@@ -37,4 +37,4 @@ There are number of R files containing codes that were applied to create the dom
 - File 7 R codes
 
 ## Where can you find more information on indices? 
-In 2023, we published our findings in the article ['Measuring small-area level deprivation in Belgium: The Belgian Index of Multiple Deprivation'](https://doi.org/10.1016/j.sste.2023.100587) in the Journal of Spatial and Spatio-temporal Epidemiology. You can also contact me directly [via email](martina.otavova@uclouvain.be).  
+In 2023, we published our findings in the article ['Measuring small-area level deprivation in Belgium: The Belgian Index of Multiple Deprivation'](https://doi.org/10.1016/j.sste.2023.100587) in the Journal of Spatial and Spatio-temporal Epidemiology. You can also contact Martina Otavova via email (martina.otavova@uclouvain.be).  
