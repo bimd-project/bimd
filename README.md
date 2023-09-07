@@ -1,5 +1,5 @@
 
-![BIMD2011](https://user-images.githubusercontent.com/104343943/198562800-803a0298-951f-48ca-bacc-aada780d2164.jpg)
+![BIMD2001_BIMD2011_johnson](https://github.com/bimd-project/bimd/assets/104343943/dd425df8-d7d1-45cb-a764-4d7d39ca0a0b)
                             <div align="center">
   From the most --------------------------------------------------------------------------- to the least deprived
 </div>
@@ -7,9 +7,10 @@
 
 
 
+
 ## The Belgian Indices of Multiple Deprivation
 
-**The Belgian indices of multiple deprivation** are spatial- and time-specific measures of relative deprivation on the level of the smallest geographical unit in Belgium, the statistical sector. The development of the deprivation indices was one of the main goals of the ELLIS project (https://www.brain-ellis.be/) and was funded by the Belgian Federal Science Policy (BELSPO) through the BRAIN-be 2.0 programme. 
+**The Belgian indices of multiple deprivation (BIMDs)** are unique tools for measuring the spatial- and time-specific relative deprivation on the level of the smallest geographical unit in Belgium, the statistical sector. They were created by Martina Otavova, the doctoral student in demography at the Catholic University of Louvain, and in statistics at the Hasselt University, Belgium. Her PhD project is a part of the ELLIS project (https://www.brain-ellis.be/) and is funded by the Belgian Federal Science Policy (BELSPO) through the BRAIN-be 2.0 programme. 
 
 The indices were developed for the years 2001 (**BIMD2001**) and 2011 (**BIMD2011**) and they assign the statistical sectors into deprivation deciles, from 1 (the most deprived 10 percent of statistical sectors nationally) to 10 (the least deprived 10 percent). 
 
@@ -33,4 +34,7 @@ There are number of R files containing codes that were applied to create the dom
 - File 2 BIMD2011 DOMAINS (SCORES, RANKS, DECILE)
 - File 3 Shapefiles  
 - File 4 Diagram of indicators for the BIMD2001 and BIMD2011
-- File 7 R codes 
+- File 7 R codes
+
+## Where can you find more information on indices? 
+In 2023, we published our findings in the article ['Measuring small-area level deprivation in Belgium: The Belgian Index of Multiple Deprivation'](https://doi.org/10.1016/j.sste.2023.100587) in the Journal of Spatial and Spatio-temporal Epidemiology. You can also contact me directly [via email](martina.otavova@uclouvain.be).  
